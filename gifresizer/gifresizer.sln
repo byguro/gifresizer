@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gifresizer.utility", "gifresizer.utility\gifresizer.utility.csproj", "{906BFD54-632C-4B42-8BBC-EE2EE2970E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gifresizer.test.web", "gifresizer.test.web\gifresizer.test.web.csproj", "{1F5618F9-43D1-4CCE-9280-2F34A26184DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906BFD54-632C-4B42-8BBC-EE2EE2970E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906BFD54-632C-4B42-8BBC-EE2EE2970E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906BFD54-632C-4B42-8BBC-EE2EE2970E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906BFD54-632C-4B42-8BBC-EE2EE2970E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5618F9-43D1-4CCE-9280-2F34A26184DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5618F9-43D1-4CCE-9280-2F34A26184DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5618F9-43D1-4CCE-9280-2F34A26184DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5618F9-43D1-4CCE-9280-2F34A26184DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
